@@ -1,5 +1,5 @@
 {
-	"name": "kamisama/php-resque-ex",
+	"name": "fahernandez/php-resque-ex",
 	"type": "library",
 	"description": "Redis backed library for creating background jobs and processing them later. PHP port based on resque for Ruby.",
 	"keywords": ["job", "background", "redis", "resque", "queue", "php"],
@@ -14,6 +14,10 @@
 		{
 			"name": "Chris Boulton",
 			"email": "chris@bigcommerce.com"
+		},
+		{
+			"name": "Fabian Hernandez",
+			"email": "fabian.hernandez@hulihealth.com"
 		}
 	],
 	"require": {
@@ -34,6 +38,11 @@
 		"email": "kami@kamisama.me",
 		"issues": "https://github.com/kamisama/php-resque-ex/issues",
 		"source": "https://github.com/kamisama/php-resque-ex"
+	},
+	"support": {
+		"email": "fabian.hernandez@hulihealth.com",
+		"issues": "https://github.com/fahernandez/Fresque/issues",
+		"source": "https://github.com/fahernandez/Fresque"
 	},
 	"bin": [
 		"bin/resque"
