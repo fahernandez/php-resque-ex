@@ -35,11 +35,6 @@
 		"fresque/fresque": "A command line tool to manage your workers"
 	},
 	"support": {
-		"email": "kami@kamisama.me",
-		"issues": "https://github.com/kamisama/php-resque-ex/issues",
-		"source": "https://github.com/kamisama/php-resque-ex"
-	},
-	"support": {
 		"email": "fabian.hernandez@hulihealth.com",
 		"issues": "https://github.com/fahernandez/Fresque/issues",
 		"source": "https://github.com/fahernandez/Fresque"
